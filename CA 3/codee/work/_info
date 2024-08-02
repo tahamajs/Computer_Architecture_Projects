@@ -1,0 +1,347 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU_Controller
+!s110 1716697706
+!i10b 1
+!s100 CCA_R?1Zn7T8:nE3_K3bB0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IVOKz_04<cCY^PAKl60_EC3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee
+w1716697702
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ALU_Controller.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ALU_Controller.v
+!i122 13
+L0 14 35
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1716697706.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ALU_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ALU_Controller.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u_@controller
+vArithmeticLogicUnit
+Z7 !s110 1716697707
+!i10b 1
+!s100 <TED_=M3S4gY[4zH:P1BQ3
+R0
+IZReOhMHkRCe3d7RR[4j<W3
+R1
+R2
+w1716648549
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ArithmeticLogicUnit.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ArithmeticLogicUnit.v
+!i122 14
+L0 9 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ArithmeticLogicUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ArithmeticLogicUnit.v|
+!i113 1
+R5
+R6
+n@arithmetic@logic@unit
+vBranchController
+R7
+!i10b 1
+!s100 A59UmWlQLY1aClT9ZOJ[P2
+R0
+IaeOV4V^W@PK;:]2Ql3V^f2
+R1
+R2
+w1715851697
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/BranchController.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/BranchController.v
+!i122 15
+L0 6 19
+R3
+r1
+!s85 0
+31
+Z8 !s108 1716697707.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/BranchController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/BranchController.v|
+!i113 1
+R5
+R6
+n@branch@controller
+vImmediateExtension
+R7
+!i10b 1
+!s100 ;bnD1WkNbY6io>6=hXXG70
+R0
+IX]GBB_TU?o[Igg9B[i0Oo2
+R1
+R2
+w1716650174
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ImmExtension.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ImmExtension.v
+!i122 16
+L0 7 13
+R3
+r1
+!s85 0
+31
+R8
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ImmExtension.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/ImmExtension.v|
+!i113 1
+R5
+R6
+n@immediate@extension
+vInstrDataMemory
+R7
+!i10b 1
+!s100 WHS6iSZIXRA]dZ]PT`ioZ1
+R0
+IIn^G4`[F9H6cH^onI1AkC3
+R1
+R2
+w1716650235
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/InstrDataMemory.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/InstrDataMemory.v
+!i122 17
+Z9 L0 1 16
+R3
+r1
+!s85 0
+31
+R8
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/InstrDataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/InstrDataMemory.v|
+!i113 1
+R5
+R6
+n@instr@data@memory
+vMainController
+R7
+!i10b 1
+!s100 G5Vm1KelWb7`PREI^ieP63
+R0
+I3SZ4G3NJKBDmjOF4>1FD61
+R1
+R2
+w1716650240
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/MainController.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/MainController.v
+!i122 18
+L0 28 189
+R3
+r1
+!s85 0
+31
+R8
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/MainController.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/MainController.v|
+!i113 1
+R5
+R6
+n@main@controller
+vMultiplexer4to1
+R7
+!i10b 1
+!s100 Wi>DFDDNe8j_3_zz^=mSM2
+R0
+I<jhlhRRIB7z]kEaTY^:WT2
+R1
+R2
+w1716650252
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/Multiplexer4to1.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/Multiplexer4to1.v
+!i122 19
+L0 1 18
+R3
+r1
+!s85 0
+31
+R8
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/Multiplexer4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/Multiplexer4to1.v|
+!i113 1
+R5
+R6
+n@multiplexer4to1
+vMux2to1
+R7
+!i10b 1
+!s100 PdC0U2FL=A@mRj3nSOWzj3
+R0
+IIX>aDJZAloWL2zlYk<K[?1
+R1
+R2
+w1716659185
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/Mux2to1.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/Mux2to1.v
+!i122 20
+L0 1 10
+R3
+r1
+!s85 0
+31
+R8
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/Mux2to1.v|
+!i113 1
+R5
+R6
+n@mux2to1
+vRegisterFile
+Z10 !s110 1716697708
+!i10b 1
+!s100 NIabLJA?^_YKQSZDUVKYk1
+R0
+INd6BRLXSHj2XRdPg[fz=n1
+R1
+R2
+w1715855875
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RegFile.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RegFile.v
+!i122 21
+L0 3 27
+R3
+r1
+!s85 0
+31
+Z11 !s108 1716697708.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RegFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RegFile.v|
+!i113 1
+R5
+R6
+n@register@file
+vRegUnit
+R10
+!i10b 1
+!s100 []zndLkc]^UbkQ>LkEN:^2
+R0
+IYZIE?f0TN;R<U5lPG=UMR3
+R1
+R2
+w1715866311
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RegUnit.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RegUnit.v
+!i122 22
+R9
+R3
+r1
+!s85 0
+31
+R11
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RegUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RegUnit.v|
+!i113 1
+R5
+R6
+n@reg@unit
+vRISC_V
+R10
+!i10b 1
+!s100 9Pm6EVSUZE6a361>aKTKP3
+R0
+IHcKSmQDHei>?17BjZK0Xf0
+R1
+R2
+w1716650388
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V.v
+!i122 23
+R9
+R3
+r1
+!s85 0
+31
+R11
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@v
+vRISC_V_Controller
+R10
+!i10b 1
+!s100 fMVk_6`41nELa:KcZGjFS0
+R0
+IADE95:6a7z5a0baFfU?L52
+R1
+R2
+w1716659191
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V_Controller.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V_Controller.v
+!i122 24
+L0 1 30
+R3
+r1
+!s85 0
+31
+R11
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V_Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V_Controller.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@v_@controller
+vRISC_V_Datapath
+R10
+!i10b 1
+!s100 SEiD7ZFUZ5]zX^UQSRU@n1
+R0
+I74f@iI4I[ZKQ[Y2ho_Cmb2
+R1
+R2
+w1716551387
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V_Datapath.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V_Datapath.v
+!i122 25
+L0 1 59
+R3
+r1
+!s85 0
+31
+R11
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V_Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/RISC_V_Datapath.v|
+!i113 1
+R5
+R6
+n@r@i@s@c_@v_@datapath
+vTestbench
+!s110 1716697711
+!i10b 1
+!s100 A?EQgJ?`;iRPd^T27NW[Q0
+R0
+I4iQRhn1JISa<97BiE4of>2
+R1
+R2
+w1715868037
+8Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/TB.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/TB.v
+!i122 26
+R9
+R3
+r1
+!s85 0
+31
+!s108 1716697710.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 3/CA_3_multi_Cycle/codee/TB.v|
+!i113 1
+R5
+R6
+n@testbench

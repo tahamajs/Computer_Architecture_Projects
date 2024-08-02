@@ -1,0 +1,70 @@
+03
+24
+00
+00
+13
+03
+40
+00
+93
+23
+83
+02
+63
+8e
+03
+00
+83
+24
+03
+00
+b3
+20
+94
+00
+63
+84
+00
+00
+33
+04
+90
+00
+13
+03
+43
+00
+6f
+f0
+5f
+fe
+
+# Instruction 1: LW x5, 0(x1)
+lw x5, 0(x1)
+
+# Instruction 2: ADDI x3, x0, 4
+addi x3, x0, 4
+
+# Instruction 3: ADD x2, x3, x3
+add x2, x3, x3
+
+# Instruction 4: BEQ x3, x2, label1
+beq x3, x2, label1
+
+# Instruction 5: SW x4, 0(x2)
+sw x4, 0(x2)
+
+# Instruction 6: SW x5, 0(x2)
+sw x5, 0(x2)
+
+# Instruction 7: BEQ x4, x3, label2
+beq x4, x3, label2
+
+# Instruction 8: ADD x4, x2, x2
+add x4, x2, x2
+
+# Instruction 9: ADDI x5, x0, 4
+addi x5, x0, 4
+
+# Instruction 10: JAL x1, label3
+jal x1, label3

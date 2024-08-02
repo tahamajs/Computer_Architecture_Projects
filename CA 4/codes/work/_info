@@ -1,0 +1,515 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dZ:/Documents/uni/CA/Files/Exersize/CA 4/v2/code
+vArithmeticLogicUnit
+!s110 1718621711
+!i10b 1
+!s100 81U3i=6c^h5Z`XYbd=7^B3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[Z2YMz[G:B<Q^nAI__5W>1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes
+w1718229748
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ArithmeticLogicUnit.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ArithmeticLogicUnit.v
+!i122 91
+L0 1 15
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1718621711.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ArithmeticLogicUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ArithmeticLogicUnit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@arithmetic@logic@unit
+vControlDecoder
+Z7 !s110 1718621712
+!i10b 1
+!s100 XS3[5>aB:an4_9_EAWMe42
+R0
+IB2>e>Z36hlKP[T8Y]oGTi2
+R1
+R2
+w1718228521
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ControlDecoder.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ControlDecoder.v
+!i122 92
+Z8 L0 1 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ControlDecoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ControlDecoder.v|
+!i113 1
+R5
+R6
+n@control@decoder
+vControlUnit
+R7
+!i10b 1
+!s100 HAMg;6z6OKdOLI_5i_jY20
+R0
+I9cKgSF0e3m_5VjDJdn6di1
+R1
+R2
+w1718621046
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ControlUnit.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ControlUnit.v
+!i122 93
+L0 27 53
+R3
+r1
+!s85 0
+31
+Z9 !s108 1718621712.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ControlUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ControlUnit.v|
+!i113 1
+R5
+R6
+n@control@unit
+vDataPath
+!s110 1718621765
+!i10b 1
+!s100 <JoR5O;;F3Xc69?Y`TDHb3
+R0
+I[b<`1_Cg9CFN5UXmP^f:00
+R1
+R2
+w1718621756
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/DataPath.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/DataPath.v
+!i122 108
+L0 1 58
+R3
+r1
+!s85 0
+31
+!s108 1718621765.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/DataPath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/DataPath.v|
+!i113 1
+R5
+R6
+n@data@path
+vDFlipFlop
+Z10 !s110 1718621713
+!i10b 1
+!s100 ;dzz:<974j5UXKIFTg45?2
+R0
+I_T9fOHH;6;BFcW?bmAkgf2
+R1
+R2
+w1718229794
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/DFlipFlop.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/DFlipFlop.v
+!i122 94
+L0 1 8
+R3
+r1
+!s85 0
+31
+R9
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/DFlipFlop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/DFlipFlop.v|
+!i113 1
+R5
+R6
+n@d@flip@flop
+vEX_Mem_Regs
+Z11 !s110 1718621716
+!i10b 1
+!s100 [4`=QnCHiNSQHXF:enXDL2
+R0
+I7U5;ZUaZ7fFK`XC>04@XE2
+R1
+R2
+Z12 w1718229861
+Z13 8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/RegisterBlocks.v
+Z14 FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/RegisterBlocks.v
+!i122 103
+L0 42 19
+R3
+r1
+!s85 0
+31
+Z15 !s108 1718621715.000000
+Z16 !s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/RegisterBlocks.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/RegisterBlocks.v|
+!i113 1
+R5
+R6
+n@e@x_@mem_@regs
+vHazardUnit
+R10
+!i10b 1
+!s100 GNb7HnJ?Gg4m=6<lD7Z361
+R0
+IjjYVn<8W3feRzA>0W0Ea13
+R1
+R2
+w1718228586
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/HazardUnit.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/HazardUnit.v
+!i122 95
+L0 1 25
+R3
+r1
+!s85 0
+31
+Z18 !s108 1718621713.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/HazardUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/HazardUnit.v|
+!i113 1
+R5
+R6
+n@hazard@unit
+vID_EX_Regs
+R11
+!i10b 1
+!s100 V6:Uf?FcAjjkjl<^MSjcH3
+R0
+IUoIkKdFAbFaP3icf@[2@U0
+R1
+R2
+R12
+R13
+R14
+!i122 103
+L0 11 30
+R3
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R5
+R6
+n@i@d_@e@x_@regs
+vIF_ID_Regs
+R11
+!i10b 1
+!s100 CmDlZQf7P]N1]]9PZ:5`B2
+R0
+IB=VKHNioSm2aRXaQULnkM3
+R1
+R2
+R12
+R13
+R14
+!i122 103
+R8
+R3
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R5
+R6
+n@i@f_@i@d_@regs
+vImmediateExtend
+R10
+!i10b 1
+!s100 8FL058BZi5kKfA4=YI[j21
+R0
+IYB]9DFUD6;X]i^:Uda<Xo2
+R1
+R2
+w1718228708
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ImmediateExtend.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ImmediateExtend.v
+!i122 96
+L0 7 12
+R3
+r1
+!s85 0
+31
+R18
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ImmediateExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/ImmediateExtend.v|
+!i113 1
+R5
+R6
+n@immediate@extend
+vInstructionMemory
+R10
+!i10b 1
+!s100 n60JWI=3^>GIA<824CVoo0
+R0
+IKhSM07c68fT>]Jo=@[WT93
+R1
+R2
+w1718620066
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/InstructionMemory.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/InstructionMemory.v
+!i122 97
+R8
+R3
+r1
+!s85 0
+31
+R18
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/InstructionMemory.v|
+!i113 1
+R5
+R6
+n@instruction@memory
+vMem_WB_Regs
+R11
+!i10b 1
+!s100 R1IZkWIz4WXnMkD@e8N``1
+R0
+IljP47DOdQ_:AE7bABYMCd3
+R1
+R2
+R12
+R13
+R14
+!i122 103
+L0 62 18
+R3
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R5
+R6
+n@mem_@w@b_@regs
+vMemoryUnit
+Z19 !s110 1718621714
+!i10b 1
+!s100 H[WAFSF6ZVLnL2QH_P>Dh3
+R0
+Ie?mb81jVMoY@I:hO8c2oj1
+R1
+R2
+w1718228391
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/MemoryUnit.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/MemoryUnit.v
+!i122 98
+L0 1 19
+R3
+r1
+!s85 0
+31
+Z20 !s108 1718621714.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/MemoryUnit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/MemoryUnit.v|
+!i113 1
+R5
+R6
+n@memory@unit
+vMux2to1
+R19
+!i10b 1
+!s100 D5cj[=djHo[jR1TXOR0A03
+R0
+IWIdiLXD4<7daGo27iz<JJ2
+R1
+R2
+w1718231908
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux2to1.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux2to1.v
+!i122 99
+Z21 L0 1 3
+R3
+r1
+!s85 0
+31
+R20
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux2to1.v|
+!i113 1
+R5
+R6
+n@mux2to1
+vMux3to1
+Z22 !s110 1718621715
+!i10b 1
+!s100 BO9cE3Hed5l1e_cbeO^Vo2
+R0
+INb^X1W0ZB=hjZXnoif5>o3
+R1
+R2
+Z23 w1718220176
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux3to1.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux3to1.v
+!i122 100
+L0 1 6
+R3
+r1
+!s85 0
+31
+R20
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux3to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux3to1.v|
+!i113 1
+R5
+R6
+n@mux3to1
+vMux4to1
+R22
+!i10b 1
+!s100 Y_dB<j`e1?oR70S83U3DC2
+R0
+IYcoZV@8Pb]WROQW5ccH>^2
+R1
+R2
+R23
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux4to1.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux4to1.v
+!i122 101
+L0 1 7
+R3
+r1
+!s85 0
+31
+R15
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Mux4to1.v|
+!i113 1
+R5
+R6
+n@mux4to1
+vRegister
+R22
+!i10b 1
+!s100 [LnPCW?bEGjMnWJTR5i^A2
+R0
+IFXH:g0^iMOhR?hQMAfoB10
+R1
+R2
+w1718228905
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Register.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Register.v
+!i122 102
+L0 1 12
+R3
+r1
+!s85 0
+31
+R15
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Register.v|
+!i113 1
+R5
+R6
+n@register
+vRegisterFile
+R11
+!i10b 1
+!s100 79kn9z<7YDCb538NWeI_X2
+R0
+I<bRF3e6<[l4:MziUCB>DA1
+R1
+R2
+w1718618945
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/RegisterFile.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/RegisterFile.v
+!i122 104
+L0 1 14
+R3
+r1
+!s85 0
+31
+Z24 !s108 1718621716.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/RegisterFile.v|
+!i113 1
+R5
+R6
+n@register@file
+vSumModule
+R11
+!i10b 1
+!s100 KlZ3OaQaHPF2KI^iPD=fF3
+R0
+IJVg1@jz3>dF9D8AnC^8oN3
+R1
+R2
+w1718220302
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/SumModule.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/SumModule.v
+!i122 105
+R21
+R3
+r1
+!s85 0
+31
+R24
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/SumModule.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/SumModule.v|
+!i113 1
+R5
+R6
+n@sum@module
+vTBPipe
+Z25 !s110 1718621717
+!i10b 1
+!s100 jM@0BEfNm>`E17o^fQ>BK0
+R0
+I>9I7H??3mRk08Pka<LU_C1
+R1
+R2
+R23
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/TB.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/TB.v
+!i122 106
+L0 2 11
+R3
+r1
+!s85 0
+31
+R24
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/TB.v|
+!i113 1
+R5
+R6
+n@t@b@pipe
+vTopLevelPipe
+R25
+!i10b 1
+!s100 >::G4lmQO:X2B8Q=l@_kX1
+R0
+IeO;`6BAM0j6iiV4;nHPz22
+R1
+R2
+w1718230234
+8Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Top_module.v
+FZ:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Top_module.v
+!i122 107
+L0 1 13
+R3
+r1
+!s85 0
+31
+!s108 1718621717.000000
+!s107 Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Documents/uni/CA/Files/Exersize/CA 4/v3/codes/Top_module.v|
+!i113 1
+R5
+R6
+n@top@level@pipe
