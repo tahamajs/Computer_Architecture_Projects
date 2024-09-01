@@ -385,13 +385,13 @@ To run the Verilog simulations, you will need a Verilog simulator such as ModelS
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/tahamajs/Computer_Architecture_Projects.git>\
+   cd Computer_Architecture_Projects
    ```
 2. **Navigate to the project folder**:
 
    ```bash
-   cd <CA_project_folder>
+   cd Computer_Architecture_Projects
    ```
 3. **Run the simulation**:
 
