@@ -11,7 +11,6 @@ This repository contains the Verilog code projects developed for the Computer Ar
 - **CA 3**: Implementation of the Multi-Cycle RISC5 Processor.
 - **CA 4**: Implementation of the Pipelined RISC5 Processor.
 - **EXTRA**: Additional resources, references, or extra work beyond the main projects.
-- **Slides**: Lecture slides and presentation materials related to the course.
 - **README.md**: This file, providing an overview and guide to the repository.
 
 ## Project Descriptions
@@ -372,7 +371,6 @@ The inputs and outputs remain consistent with the previous designs, ensuring bac
 - **Maintaining Compatibility**:
 
   - Despite the enhancements, the processor should remain compatible with the original RISC5 instruction set and the basic operations as defined in the earlier assignments.
-
 
 ### Getting Started
 
