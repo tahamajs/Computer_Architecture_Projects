@@ -112,7 +112,3 @@ In this project, the processor is extended to include **pipelining**, a techniqu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you need further revisions or any additional details!
